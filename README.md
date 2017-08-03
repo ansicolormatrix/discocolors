@@ -11,18 +11,3 @@
 
 </footer>
 
-#site-footer {
-height: 50px;
-background: red;
-}
-
-
-#footer1{
-margin-left:2%;
-float:left;
-
-}
-#footer2{
-margin-right:2%;
-float:right;
-}
