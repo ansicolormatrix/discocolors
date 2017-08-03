@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/ansicolormatrix/discocolors/master/20170803_171923.png">
 <img src="https://raw.githubusercontent.com/ansicolormatrix/discocolors/master/1501796842-50.110.244.106.png">
 <footer id="site-footer">
-<img src="smiley.gif" alt="Smiley face" height="42" width="42">
+<img src="https://raw.githubusercontent.com/ansicolormatrix/discocolors/master/20170803_180609.jpg" alt="footer" height="70" width="1000">
 
 
 
