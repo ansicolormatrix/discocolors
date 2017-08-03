@@ -4,3 +4,4 @@
 </a>
 <img src="https://raw.githubusercontent.com/ansicolormatrix/discocolors/master/20170803_171923.png">
 <img src="https://raw.githubusercontent.com/ansicolormatrix/discocolors/master/1501796842-50.110.244.106.png">
+<footer>Copyright &copy; Hacker Community Owner of Site MLW12252002</footer>
