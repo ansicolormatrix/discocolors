@@ -1,3 +1,3 @@
-**Disco Colors**
 
+<font color="red">This is some text!</font>
 
