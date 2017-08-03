@@ -6,8 +6,5 @@
 <img src="https://raw.githubusercontent.com/ansicolormatrix/discocolors/master/1501796842-50.110.244.106.png">
 <footer id="site-footer">
 
-<div id="footer1"><p>Copyright  @2017 hacker Community Owner of Site MLW12252002 - All Rights Reserved </p></div>
-<div id="footer2"><p>Made With Github</p></div>
 
-</footer>
 
